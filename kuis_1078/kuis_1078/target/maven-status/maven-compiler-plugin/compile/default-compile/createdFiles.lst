@@ -1,0 +1,9 @@
+com\tib\kuis_1078\service\Aksesoris_1078_Service.class
+com\tib\kuis_1078\Kuis1078Application.class
+com\tib\kuis_1078\repo\Aksesoris_1078_Repo.class
+com\tib\kuis_1078\repo\Mobil_1078_Repo.class
+com\tib\kuis_1078\controller\aksesoris_1078_Controller.class
+com\tib\kuis_1078\service\Mobil_1078_Service.class
+com\tib\kuis_1078\entity\Mobil_1078.class
+com\tib\kuis_1078\controller\mobil_1078_Controller.class
+com\tib\kuis_1078\entity\Aksesoris_1078.class
